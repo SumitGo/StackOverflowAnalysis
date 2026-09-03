@@ -1,6 +1,6 @@
 # Stack Overflow Developer Survey Analysis
 
-An exploratory data analysis (EDA) of the **Stack Overflow Annual Developer Survey** dataset, built in a single Jupyter notebook (`ultimateProject.ipynb`) using `pandas`, `numpy`, `matplotlib`, and `seaborn`.
+An exploratory data analysis (EDA) of the **Stack Overflow Annual Developer Survey** dataset, built in a single Jupyter notebook (`ultimateProject.ipynb`) using `pandas`, `numpy`, and `matplotlib`.
 
 The goal is to dig into the raw survey responses and answer practical questions about who developers are, what they use, and how satisfied they are with their work.
 
